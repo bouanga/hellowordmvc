@@ -6,4 +6,13 @@
   <name>HELLOWORD</name>
   <description>	</description>
   <packaging>pom</packaging>
+  <modules>
+  	<module>helloworldmvc.controller</module>
+  	<module>helloworldmvc.model</module>
+  	<module>helloworldmvc.view</module>
+  	
+  	
+  	<module>helloworldmvc.main</module>
+  	<module>helloworldmvc.contract</module>
+  </modules>
 </project>
